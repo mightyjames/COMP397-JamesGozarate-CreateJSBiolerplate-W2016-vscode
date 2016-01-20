@@ -1,0 +1,23 @@
+{
+  "name": "COMP397-CreateBoillerPlate-W2016",
+  "homepage": "https://github.com/mightyjames/COMP397-JamesGozarate-CreateJSBiolerplate-W2016-vscode",
+  "authors": [
+    "mightyjames <jamesgozarate1@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "bootstrap": "~3.3.6"
+  }
+}
